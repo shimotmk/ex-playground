@@ -1,0 +1,28 @@
+{
+	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
+	"landingPage": "/wp-admin/edit.php",
+	"preferredVersions": {
+		"php": "8.0",
+		"wp": "latest"
+	},
+	"features": {
+		"networking": true
+	},
+	"plugins": [
+		"flip-box-block",
+		"contact-form-7"
+	],
+	"steps": [
+		{
+			"step": "installTheme",
+			"themeData": {
+				"resource": "wordpress.org/themes",
+				"slug": "twentynineteen"
+			}
+		},
+		{
+			"step": "setSiteLanguage",
+			"language": "ja"
+		}
+	]
+}
