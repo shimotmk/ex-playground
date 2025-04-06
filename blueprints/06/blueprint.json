@@ -18,7 +18,7 @@
             "path": "/wordpress/wp-content/mu-plugins/my-playground-plugin.php",
             "data": {
                 "resource": "url",
-                "url": "https://raw.githubusercontent.com/shimotmk/ex-playground/main/blueprints/my-playground-plugin.php"
+                "url": "https://raw.githubusercontent.com/shimotmk/ex-playground/main/blueprints/06/my-playground-plugin.php"
             }
         }
     ]
