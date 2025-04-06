@@ -262,15 +262,15 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 
 <!-- wp:gallery {"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":15,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/volleyball.png" alt="" class="wp-image-15"/></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/volleyball.png" alt="" class="wp-image-15"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":12,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/baseball.png" alt="" class="wp-image-12"/></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/baseball.png" alt="" class="wp-image-12"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":13,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/football.png" alt="" class="wp-image-13"/></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/football.png" alt="" class="wp-image-13"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -324,7 +324,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<link>https://playground.wordpress.net/scope:excited-chic-state/baseball/</link>
 		<pubDate>Sat, 05 Apr 2025 08:21:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/baseball.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/baseball.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -342,7 +342,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/baseball.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/baseball.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/baseball.png]]></wp:meta_value>
@@ -357,7 +357,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<link>https://playground.wordpress.net/scope:excited-chic-state/football/</link>
 		<pubDate>Sat, 05 Apr 2025 08:21:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/football.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/football.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -375,7 +375,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/football.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/football.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/football.png]]></wp:meta_value>
@@ -390,7 +390,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<link>https://playground.wordpress.net/scope:excited-chic-state/thumbnail/</link>
 		<pubDate>Sat, 05 Apr 2025 08:21:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/thumbnail.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/thumbnail.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -408,7 +408,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/thumbnail.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/thumbnail.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/thumbnail.png]]></wp:meta_value>
@@ -423,7 +423,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<link>https://playground.wordpress.net/scope:excited-chic-state/volleyball/</link>
 		<pubDate>Sat, 05 Apr 2025 08:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/volleyball.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/volleyball.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -441,7 +441,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/blueprint-10/images/volleyball.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/10/images/volleyball.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/volleyball.png]]></wp:meta_value>

@@ -14,10 +14,10 @@
 			"language": "ja"
 		},
 		{
-			"step": "importWordPressFiles",
-			"wordPressFilesZip": {
-				"resource": "url",
-				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/blueprint-9/wordpress-playground.zip"
+			"step": "importWxr",
+			"file": {
+			  "resource": "url",
+			  "url": "https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/09/mywordpresswebsite.WordPress.2025-04-05.xml"
 			}
 		}
 	]
