@@ -17,7 +17,7 @@
 			"step": "installTheme",
 			"themeData": {
 				"resource": "url",
-				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/13/my-theme.zip"
+				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/13/mytheme.zip"
 			}
 		},
 		{
