@@ -14,17 +14,17 @@
 			"language": "ja"
 		},
 		{
+			"step": "importWordPressFiles",
+			"wordPressFilesZip": {
+				"resource": "url",
+				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/13/wp-content.zip"
+			}
+		},
+		{
 			"step": "installTheme",
 			"themeData": {
 				"resource": "url",
 				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/13/mytheme.zip"
-			}
-		},
-		{
-			"step": "importWordPressFiles",
-			"wordPressFilesZip": {
-				"resource": "url",
-				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/13/data.zip"
 			}
 		}
 	]
