@@ -17,7 +17,7 @@
 			"step": "importWordPressFiles",
 			"wordPressFilesZip": {
 				"resource": "url",
-				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/10/wordpress-playground.zip"
+				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/10/wp-content.zip"
 			}
 		}
 	]
