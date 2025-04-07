@@ -14,17 +14,17 @@
 			"language": "ja"
 		},
 		{
-			"step": "installPlugin",
-			"pluginData": {
-				"resource": "url",
-				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/12/my-playground-plugin.zip"
-			}
-		},
-		{
 			"step": "importWordPressFiles",
 			"wordPressFilesZip": {
 				"resource": "url",
 				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/12/wp-content.zip"
+			}
+		},
+		{
+			"step": "installPlugin",
+			"pluginData": {
+				"resource": "url",
+				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/blueprints/12/my-playground-plugin.zip"
 			}
 		}
 	]
