@@ -14,11 +14,12 @@
 			"language": "ja"
 		},
 		{
-			"step": "importWordPressFiles",
-			"wordPressFilesZip": {
-				"resource": "url",
-				"url": "https://github.com/shimotmk/ex-playground/raw/refs/heads/main/playground.zip"
-			}
+			"step": "wp-cli",
+			"command": "wp plugin install flip-box-block --activate"
+		},
+		{
+			"step": "wp-cli",
+			"command": "wp theme install https://downloads.wordpress.org/theme/twentytwentytwo.latest-stable.zip --activate"
 		}
 	]
 }
