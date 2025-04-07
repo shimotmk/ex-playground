@@ -17,7 +17,7 @@
 			"step": "importWxr",
 			"file": {
 			  "resource": "url",
-			  "url": "https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/09/mywordpresswebsite.WordPress.2025-04-05.xml"
+			  "url": "https://raw.githubusercontent.com/shimotmk/ex-playground/refs/heads/main/blueprints/09/mywordpresswebsite.xml"
 			}
 		}
 	]
