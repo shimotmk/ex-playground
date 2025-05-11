@@ -1,0 +1,38 @@
+{
+	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
+	"landingPage": "/wp-admin/edit.php",
+	"preferredVersions": {
+		"php": "8.0",
+		"wp": "latest"
+	},
+	"features": {
+		"networking": true
+	},
+	"steps": [
+		{
+			"step": "installTheme",
+			"themeData": {
+				"resource": "wordpress.org/plugins",
+				"slug": "flip-box-block"
+			}
+		},
+		{
+			"step": "installPlugin",
+			"pluginData": {
+				"resource": "url",
+				"url": "https://downloads.wordpress.org/plugin/contact-form-7.latest-stable.zip"
+			}
+		},
+		{
+			"step": "installTheme",
+			"themeData": {
+				"resource": "url",
+				"url": "https://downloads.wordpress.org/theme/twentytwentytwo.latest-stable.zip"
+			}
+		},
+		{
+			"step": "setSiteLanguage",
+			"language": "ja"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
+	"landingPage": "/wp-admin/edit.php",
+	"preferredVersions": {
+		"php": "8.0",
+		"wp": "latest"
+	},
+	"features": {
+		"networking": true
+	},
+	"steps": [
+		{
+			"step": "setSiteLanguage",
+			"language": "ja"
+		},
+		{
+			"step": "wp-cli",
+			"command": "wp plugin install flip-box-block --activate"
+		},
+		{
+			"step": "wp-cli",
+			"command": "wp theme install https://downloads.wordpress.org/theme/twentytwentytwo.latest-stable.zip --activate"
+		}
+	]
+}
